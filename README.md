@@ -2,4 +2,4 @@
 
 Some jupyter notebooks containing several test with the Qiskit library.
 
-The simulations are always performed on a classical level.
+The simulations are always performed at a classical level.
